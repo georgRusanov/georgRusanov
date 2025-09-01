@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Georgii.
+I’m currently working in RingCentral as a SDET.
+
+I’m passionate about QA automation and CI optimization. Currently, I work primarily with Java, but I also have experience with JavaScript, TypeScript, and C#. My expertise covers manual testing, test design, as well as test automation for both API and UI.
+
+I actively apply modern tools and frameworks, combining strong architectural decisions, clean coding practices, and attention to detail. I enjoy contributing both as an individual engineer and as part of a team, with proven experience introducing new tools and improving workflows in enterprise environments.
+
 <!--
 **georgRusanov/georgRusanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
